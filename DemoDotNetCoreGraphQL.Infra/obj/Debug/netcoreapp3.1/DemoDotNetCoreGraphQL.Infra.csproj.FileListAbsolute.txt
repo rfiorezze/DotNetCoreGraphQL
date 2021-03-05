@@ -1,0 +1,16 @@
+D:\Projetos\demo-dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\obj\Debug\netcoreapp3.1\DemoDotNetCoreGraphQL.Infra.AssemblyInfoInputs.cache
+D:\Projetos\demo-dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\obj\Debug\netcoreapp3.1\DemoDotNetCoreGraphQL.Infra.AssemblyInfo.cs
+D:\Projetos\demo-dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\obj\Debug\netcoreapp3.1\DemoDotNetCoreGraphQL.Infra.csproj.CoreCompileInputs.cache
+D:\Projetos\demo-dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\bin\Debug\netcoreapp3.1\DotNetCoreGraphQL.Infra.deps.json
+D:\Projetos\demo-dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\bin\Debug\netcoreapp3.1\DotNetCoreGraphQL.Infra.dll
+D:\Projetos\demo-dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\bin\Debug\netcoreapp3.1\DotNetCoreGraphQL.Infra.pdb
+D:\Projetos\demo-dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\obj\Debug\netcoreapp3.1\DotNetCoreGraphQL.Infra.dll
+D:\Projetos\demo-dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\obj\Debug\netcoreapp3.1\DotNetCoreGraphQL.Infra.pdb
+D:\Projetos\dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\bin\Debug\netcoreapp3.1\DotNetCoreGraphQL.Infra.deps.json
+D:\Projetos\dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\bin\Debug\netcoreapp3.1\DotNetCoreGraphQL.Infra.dll
+D:\Projetos\dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\bin\Debug\netcoreapp3.1\DotNetCoreGraphQL.Infra.pdb
+D:\Projetos\dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\obj\Debug\netcoreapp3.1\DemoDotNetCoreGraphQL.Infra.AssemblyInfoInputs.cache
+D:\Projetos\dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\obj\Debug\netcoreapp3.1\DemoDotNetCoreGraphQL.Infra.AssemblyInfo.cs
+D:\Projetos\dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\obj\Debug\netcoreapp3.1\DemoDotNetCoreGraphQL.Infra.csproj.CoreCompileInputs.cache
+D:\Projetos\dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\obj\Debug\netcoreapp3.1\DotNetCoreGraphQL.Infra.dll
+D:\Projetos\dotnetcore-graphql\DemoDotNetCoreGraphQL.Infra\obj\Debug\netcoreapp3.1\DotNetCoreGraphQL.Infra.pdb
